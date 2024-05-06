@@ -1,0 +1,38 @@
+_repo: Within-the-nebula_73508
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Mead, Edwin D. (Edwin Doak)
+    alias: Mead, Edwin Doak
+    birthdate: 1849
+    deathdate: 1937
+    gutenberg_agent_id: '37075'
+    url: http://www.gutenberg.org/2009/agents/37075
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2024-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73508'
+language: en
+pgterms:marc905: 20240326073930hamilton
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bPopular Fiction Publishing Co., $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Within the nebula
+url: http://www.gutenberg.org/ebooks/73508
